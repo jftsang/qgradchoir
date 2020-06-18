@@ -8,6 +8,11 @@ require '/societies/qgradchoir/private_files/header.php';
 
 <? require_once("topbar.php") ?>
 
+<p><strong><em>Update June 2020: Rehearsals are currently suspended indefinitely
+because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
+meantime please follow our mailing list and our Facebook page (see below) for
+updates and projects.</em></strong></p>
+
 <h2>About us</h2>
 
 <img src="/images/photos/20190303-evensong.jpg" class="thumb" 
