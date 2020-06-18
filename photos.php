@@ -15,7 +15,7 @@ function includeFigure($fn, $w, $h, $caption)
 
 }
 
-require '/societies/qgradchoir/private_files/header.php';
+require 'header.php';
 ?>
 
 <body>
