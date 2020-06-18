@@ -69,9 +69,25 @@ li{
 margin:5px 0;
 }
 
+
+#extlns{
+    margin:0;
+    text-align:center;
+    font-size:14px;
+    color:#666;
+}
+
+a.extln{
+    margin:0;
+    text-align:center;
+    font-size:14px;
+    color:#666;
+}
+
 #upd{
-margin:0;
-text-align:center;
-font-size:14px;
-color:#666;
+    margin:0;
+    margin-top: 1em;
+    text-align:center;
+    font-size:14px;
+    color:#666;
 }
