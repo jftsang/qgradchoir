@@ -62,8 +62,6 @@ worry about coming along for the first time. Bring a friend!</p>
 </ul>
 </p>
 
-<div class="spacer"></div>
-
-<p id="upd">Updated <?php echo date("jS M Y", getlastmod()); ?></p>
+<? require_once("bottombar.php") ?>
 </body>
 </html>

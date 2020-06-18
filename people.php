@@ -54,10 +54,6 @@ and continues to help with the running of the choir. Arthur also designed the pr
 
 </table>
 
-<div class="spacer"></div>
-
-<p id="upd">Updated <?php echo date("jS M Y", getlastmod()); ?></p>
+<? require_once("bottombar.php"); ?>
 </body>
 </html>
-
-

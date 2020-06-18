@@ -48,7 +48,7 @@ Fellows' Choir. We won for the first time ever! Photo credit: Suzy Digby."
     "The Choir performing in Old Hall."
 ); ?>
 
-<p id="upd">Updated <?php echo date("jS M Y", getlastmod()); ?></p>
+<? require_once("bottombar.php") ?>
 </body>
 </html>
 
