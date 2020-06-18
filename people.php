@@ -30,14 +30,15 @@ Cambridge.</p>
 
 <tr>
 <td style="width: 60%;"><h3>Administrator: Jonny Tsang
-<span style="font-size: small;">(<a href="mailto:jmft2 at cam dot ac dot uk">email</a>)</span>
+<span style="font-size: small;">(<a href="mailto:j dot m dot f dot tsang at cantab dot net">email</a>)</span>
 </h3>
-<p>Currently doing a PhD in applied mathematics, Jonny has been a student at
-Queens' since 2011. Throughout this time, Jonny has been involved in many choirs
-at Queens' and around Cambridge. As administrator for Queens'
+<p>Jonny studied at Queens' between 2011 and 2019, first reading the
+Mathematical Tripos and then completing a PhD in applied mathematics. Jonny
+continues to live in Cambridge, and throughout this time they have been involved
+in many choirs at Queens' and around Cambridge. As administrator for Queens'
 Graduate Choir since 2018, Jonny is responsible for the organisation of
 rehearsals, performances and other events, liaison with the College, and the
-Choir's publicity and finances. Jonny also accompanies the Choir on the piano.</p>
+Choir's publicity and finances.</p>
 </td>
 <td style="width: 200px;"><img class="people" src="/images/photos/jonny.jpg"></td>
 </tr>
