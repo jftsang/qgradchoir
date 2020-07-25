@@ -8,17 +8,23 @@ require 'header.php';
 
 <? require_once("topbar.php") ?>
 
-<p><strong><em>Update June 2020: Rehearsals are currently suspended indefinitely
+<p><strong><em>Update July 2020: Rehearsals are currently suspended indefinitely
 because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
 meantime please follow our mailing list and our Facebook page (see below) for
-updates and projects.</em></strong></p>
+updates and recording projects. Here's our May Week 'concert':</em></strong></p>
+<center>
+<iframe width="256" height="115"
+src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8" frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+</center>
 
 <h2>About us</h2>
 
 <img src="/images/photos/20190303-evensong.jpg" class="thumb" 
 alt="Choral Evensong at Queens', 3 March 2019." 
-title="Choral Evensong at Queens', 3 March 2019." 
->
+title="Choral Evensong at Queens', 3 March 2019.">
+
 <p>Queens' Graduate Choir is a relaxed, non-auditioned choir consisting mostly
 of graduate students and alumni of <a
 href="http://www.queens.cam.ac.uk/">Queens' College Cambridge</a> (although we

@@ -7,7 +7,7 @@ function includeFigure($fn, $w, $h, $caption)
 
     printf("<a href=\"%s\">\n", $photourl);
     printf("<img src=\"%s\" class=\"gallery\" \n", $imsrc);
-    printf("alt=\"%s\" \ntitle=\"%s\"\n", $caption);
+    printf("alt=\"%s\" \ntitle=\"%s\"\n", $caption, $caption);
     printf("/>\n\n");
     printf("</a>\n");
     printf("<p class=\"caption\">%s</p>", $caption);

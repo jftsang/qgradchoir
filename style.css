@@ -1,59 +1,66 @@
 html{
-background-color:#aaa;
-font-size:17px;
-font-family:sans-serif;
-text-align:justify;
-color:#333;
+    background-color:#aaa;
+    font-size:17px;
+    font-family:sans-serif;
+    text-align:justify;
+    color:#333;
 }
+
 body{
-max-width:800px;
-padding:20px 40px;
-margin:0 auto;
-background-color:#fff;
-border-top:18px solid #0C3D0A;
-box-shadow:0 0 40px 5px #444;
+    max-width:800px;
+    padding:20px 40px;
+    margin:0 auto;
+    background-color:#fff;
+    border-top:18px solid #0C3D0A;
+    box-shadow:0 0 40px 5px #444;
 }
+
 h1{
-margin:22px 0;
-text-align:center;
-font-size:42px;
-color:#000;
+    margin:22px 0;
+    text-align:center;
+    font-size:42px;
+    color:#000;
 }
+
 h2{
-border-bottom:2px solid #0C3D0A;
-color:#000;
+    border-bottom:2px solid #0C3D0A;
+    color:#000;
 }
+
 h3{
-color:#000;
+    color:#000;
 }
+
 .spacer{
-height:16px;
+    height:16px;
 }
+
 a{
-text-decoration:none;
-font-weight:bold;
-color:#000 !important;
+    text-decoration:none;
+    font-weight:bold;
+    color:#000 !important;
 }
+
 a:hover{
-text-decoration:underline;
+    text-decoration:underline;
 }
 
 img.thumb{
-width:256px;
-margin:0 0 20px 20px;
-float:right;
+    width:256px;
+    margin:0 0 20px 20px;
+    float:right;
 }
 
 img.gallery{
-margin: 0 20px 10px 20px;
-width: 480px;
-text-align: center;
+    margin: 0 20px 10px 20px;
+    width: 480px;
+    text-align: center;
 }
 
 img.people{
-margin: 0 20px 10px 20px;
-width: 180px;
-text-align: center;
+    margin: 0 20px 10px 20px;
+    width: 180px;
+    text-align: center;
 }
 
 p.caption{
@@ -62,11 +69,11 @@ p.caption{
 }
 
 .nobullet{
-list-style-type:none;
-padding-left:0;
+    list-style-type:none;
+    padding-left:0;
 }
 li{
-margin:5px 0;
+    margin:5px 0;
 }
 
 

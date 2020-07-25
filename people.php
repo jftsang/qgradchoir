@@ -43,14 +43,17 @@ Choir's publicity and finances.</p>
 <td style="width: 200px;"><img class="people" src="/images/photos/jonny.jpg"></td>
 </tr>
 
-<tr>
-<td style="width: 60%;"><h3>Occasional conductor: Arthur Tombs
-</h3>
-<p>
-A PhD student in engineering, Arthur directed Grad Choir between 2016&ndash;18
-and continues to help with the running of the choir. Arthur also designed the present website.
-</p>
-<td> </td>
+<tr><td style="width: 60%;">
+<h3>Former conductors and committee</h3>
+
+<ul>
+<li>Arthur Tombs</li>
+<li>Lewis Owen</li>
+<li>Manu Signer</li>
+<li>Sonia Ilie</li>
+<li>Karol Jaworski</li>
+</ul>
+</td><td></td>
 </tr>
 
 </table>
