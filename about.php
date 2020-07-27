@@ -21,9 +21,9 @@ allowfullscreen></iframe>
 
 <h2>About us</h2>
 
-<img src="/images/photos/20190303-evensong.jpg" class="thumb" 
-alt="Choral Evensong at Queens', 3 March 2019." 
-title="Choral Evensong at Queens', 3 March 2019.">
+<img src="/images/photos/202003xx_botc.jpg" class="thumb"
+alt="Battle of the Choirs, March 2020."
+title="Battle of the Choirs, March 2020."/>
 
 <p>Queens' Graduate Choir is a relaxed, non-auditioned choir consisting mostly
 of graduate students and alumni of <a
