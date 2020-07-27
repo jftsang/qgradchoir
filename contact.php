@@ -9,8 +9,11 @@ require 'header.php';
 <? require_once("topbar.php") ?>
 
 <h2>Contact us</h2>
-<p>The best way to get in touch is to email us at <a href="mailto:gradchoir@cusu.cam.ac.uk">gradchoir@cusu.cam.ac.uk</a>.</p>
-<p>You can also subscribe to our mailing list here: <a href="https://lists.cam.ac.uk/mailman/listinfo/quen-mcr-choir">lists.cam.ac.uk/mailman/listinfo/quen-mcr-choir</a>.</p>
+<p>The best way to get in touch is to email us at <a
+href="quen-mcr-choir-owner@lists.cam.ac.uk">quen-mcr-choir-owner@lists.cam.ac.uk</a>.</p>
+
+<p>You can also subscribe to our mailing list here: <a
+href="https://lists.cam.ac.uk/mailman/listinfo/quen-mcr-choir">lists.cam.ac.uk/mailman/listinfo/quen-mcr-choir</a>.</p>
 
 <div class="spacer"></div>
 
