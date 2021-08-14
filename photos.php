@@ -1,5 +1,4 @@
 <?php
-
 function includeFigure($fn, $w, $h, $caption)
 {
     $photourl = sprintf("/images/photos/%s", $fn);
@@ -13,15 +12,9 @@ function includeFigure($fn, $w, $h, $caption)
     printf("<p class=\"caption\">%s</p>", $caption);
     printf("</td><tr>\n");
 }
-
-require 'header.php';
 ?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <h2>Photos</h2>
 
@@ -55,7 +48,6 @@ the Choirs. Photo credit: Robin Pillinger."); ?>
 ); ?>
 </table>
 
+</section>
 <? require_once("bottombar.php") ?>
-</body>
-</html>
 

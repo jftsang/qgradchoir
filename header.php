@@ -12,3 +12,17 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="/style.css">
 	<title>Queens' Graduate Choir</title>
 </head>
+
+<body>
+<header>
+<h1>Queens' Graduate Choir</h1>
+
+<nav class="main-nav">
+<ul>
+    <li><a href="/index.php">About us</a></li>
+    <li><a href="/people.php">People</a></li>
+    <li><a href="/photos.php">Photos</a></li>
+    <li><a href="/contact.php">Contact us</a></li>
+</ul>
+</nav>
+</header>
