@@ -1,17 +1,16 @@
 <?php require 'header.php'; ?>
 <section>
 
-<p><strong><em>Update July 2020: Rehearsals are currently suspended indefinitely
+<p class="announcement">Update July 2020: Rehearsals are currently suspended indefinitely
 because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
 meantime please follow our mailing list and our Facebook page (see below) for
-updates and recording projects. Here's our May Week 'concert':</em></strong></p>
+updates and recording projects. Here's our May Week 'concert':</p>
 <center>
 <iframe width="256" height="115"
 src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8" frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </center>
-
 </section>
 
 <section>
