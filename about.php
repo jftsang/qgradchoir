@@ -1,16 +1,17 @@
 <?php require 'header.php'; ?>
 <section>
+<h2>Update July 2020</h2>
 
-<p class="announcement">Update July 2020: Rehearsals are currently suspended indefinitely
+<p class="announcement">Rehearsals are currently suspended indefinitely
 because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
 meantime please follow our mailing list and our Facebook page (see below) for
 updates and recording projects. Here's our May Week 'concert':</p>
-<center>
+<div class="youtube">
 <iframe width="256" height="115"
-src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8" frameborder="0"
+src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
-</center>
+</div>
 </section>
 
 <section>
@@ -62,7 +63,6 @@ worry about coming along for the first time. Bring a friend!</p>
 <li>24th November 2014, 9pm, in Queens' College Chapel (late-night Compline service in conjunction with <a href="http://queenscollegechoir.com">Queens' College Choir</a>).</li>
 <li>And many more...</li>
 </ul>
-</p>
 
 </section>
 
