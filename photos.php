@@ -1,5 +1,4 @@
 <?php
-
 function includeFigure($fn, $w, $h, $caption)
 {
     $photourl = sprintf("/images/photos/%s", $fn);
@@ -14,15 +13,9 @@ function includeFigure($fn, $w, $h, $caption)
     printf("\n<div class=\"spacer\"></div>\n");
 
 }
-
-require 'header.php';
 ?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <h2>Photos</h2>
 
@@ -48,7 +41,6 @@ Fellows' Choir. We won for the first time ever! Photo credit: Suzy Digby."
     "The Choir performing in Old Hall."
 ); ?>
 
+</section>
 <? require_once("bottombar.php") ?>
-</body>
-</html>
 

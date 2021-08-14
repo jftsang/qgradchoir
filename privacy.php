@@ -1,12 +1,5 @@
-<?php
-require 'header.php';
-?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <h2>Privacy policy</h2>
 
@@ -25,6 +18,5 @@ are visible to all members of the mailing list.</p>
 mailing list page</a> and follow the instructions, or email the <a
 href="/people.php">committee</a>.</p>
 
+</section>
 <? require_once("bottombar.php") ?>
-</body>
-</html>

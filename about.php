@@ -1,12 +1,5 @@
-<?php
-require 'header.php';
-?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <p><strong><em>Update July 2020: Rehearsals are currently suspended indefinitely
 because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
@@ -18,6 +11,10 @@ src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8" frameborder="0"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </center>
+
+</section>
+
+<section>
 
 <h2>About us</h2>
 
@@ -68,6 +65,6 @@ worry about coming along for the first time. Bring a friend!</p>
 </ul>
 </p>
 
+</section>
+
 <? require_once("bottombar.php") ?>
-</body>
-</html>

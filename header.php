@@ -12,3 +12,10 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="/style.css">
 	<title>Queens' Graduate Choir</title>
 </head>
+
+<body>
+<header>
+<h1>Queens' Graduate Choir</h1>
+
+<?php require_once("topbar.php"); ?>
+</header>

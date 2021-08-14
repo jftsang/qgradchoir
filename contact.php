@@ -1,12 +1,5 @@
-<?php
-require 'header.php';
-?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <h2>Contact us</h2>
 <p>The best way to get in touch is to email us at <a
@@ -30,6 +23,5 @@ href="https://lists.cam.ac.uk/mailman/listinfo/quen-mcr-choir">lists.cam.ac.uk/m
 <li><a href="http://www.qjcr.org.uk/">Queens' College JCR</a></li>
 </ul>
 
+</section>
 <? require_once("bottombar.php") ?>
-</body>
-</html>

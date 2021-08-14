@@ -1,12 +1,5 @@
-<?php
-require 'header.php';
-?>
-
-<body>
-
-<h1>Queens' Graduate Choir</h1>
-
-<? require_once("topbar.php") ?>
+<?php require 'header.php'; ?>
+<section>
 
 <h2>People</h2>
 
@@ -58,6 +51,6 @@ Choir's publicity and finances.</p>
 
 </table>
 
-<? require_once("bottombar.php"); ?>
-</body>
-</html>
+</section>
+
+<? require_once("bottombar.php") ?>
