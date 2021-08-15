@@ -7,6 +7,7 @@
 	<meta name="language" content="en">
 	<meta name="keywords" content="choir, music, singing, cambridge, graduate, grad, student, queens' college, magsoc">
 	<meta name="description" content="Queens' Graduate Choir is a relaxed, non-auditioned choir for graduate members (students and alumni) of Queens' College Cambridge, and from other Cambridge colleges.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" href="http://qgradchoir.soc.srcf.net/images/icons/QMCR.ico">
 	<link rel="stylesheet" type="text/css" media="screen" href="/style.css">
 	<title>Queens' Graduate Choir</title>
