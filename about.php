@@ -1,5 +1,7 @@
 <?php require 'header.php'; ?>
 <section>
+
+<!--
 <h2>Update July 2020</h2>
 
 <p class="announcement">Rehearsals are currently suspended indefinitely
@@ -12,6 +14,15 @@ src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8"
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
 </div>
+-->
+
+<h2>Update 13 September 2021</h2>
+
+<p class="announcement">Grad Choir is set to resume for Michaelmas 2021! Our
+rehearsals have changed to <strong>Wednesdays at 7.30pm</strong>, still in
+Queens' Chapel, and will start on 6 October.
+</p>
+
 </section>
 
 <section>
@@ -30,7 +41,7 @@ from sacred motets to pop classics.</p>
 
 <p>We perform at various college events in Queens' throughout the year,
 including the MCR Christmas dinners, Choral Evensongs, summer garden party, and
-termly concerts.</p>
+termly concerts. We also hold masterclasses and social events.</p>
 
 <p>The Graduate Choir membership represents a broad range of ages, subjects and
 levels of singing experience. Emphasis in rehearsal is placed on improving as
@@ -42,14 +53,17 @@ sing!</p>
 
 <p>We rehearse in <a
 href="http://www.queens.cam.ac.uk/life-at-queens/chapel-and-spiritual-life-in-queens">Queens'
-College Chapel</a> 6:30pm to 7:30pm every Thursday during term, and usually
-outside term as well. We are always happy to welcome new members, so don't
-worry about coming along for the first time. Bring a friend!</p>
+College Chapel</a> <strong>7:30pm to 8:30pm every Wednesday</strong> during
+term, and usually outside term as well. We are always happy to welcome new
+members, so don't worry about coming along for the first time. Bring a
+friend!</p>
 
 <h3>Performances</h3>
 
-<p>Check <a href="https://www.facebook.com/QueensGradChoir">our Facebook page</a> to find out details for our upcoming concerts.</p>
+<p>Check <a href="https://www.facebook.com/QueensGradChoir">our Facebook
+page</a> to find out details for our upcoming concerts.</p>
 
+<!--
 <p>Our previous performances have included:</p>
 <ul>
 <li>3rd March 2019, Choral Evensong in Queens' Chapel</li>
@@ -63,6 +77,7 @@ worry about coming along for the first time. Bring a friend!</p>
 <li>24th November 2014, 9pm, in Queens' College Chapel (late-night Compline service in conjunction with <a href="http://queenscollegechoir.com">Queens' College Choir</a>).</li>
 <li>And many more...</li>
 </ul>
+-->
 
 </section>
 
