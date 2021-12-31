@@ -1,26 +1,11 @@
 <?php require 'header.php'; ?>
 <section>
 
-<!--
-<h2>Update July 2020</h2>
+<h2>Update 31 December 2021</h2>
 
-<p class="announcement">Rehearsals are currently suspended indefinitely
-because of the ongoing coronavirus pandemic. We hope to be back soon, but in the
-meantime please follow our mailing list and our Facebook page (see below) for
-updates and recording projects. Here's our May Week 'concert':</p>
-<div class="youtube">
-<iframe width="256" height="115"
-src="https://www.youtube-nocookie.com/embed/3v8kIhulGl8"
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-allowfullscreen></iframe>
-</div>
--->
-
-<h2>Update 13 September 2021</h2>
-
-<p class="announcement">Grad Choir is set to resume for Michaelmas 2021! Our
-rehearsals have changed to <strong>Wednesdays at 7.30pm</strong>, still in
-Queens' Chapel, and will start on 6 October.
+<p class="announcement">Merry Christmas and a Happy New Year! Grad Choir 
+rehearsals will resume on <strong>Wednesday 12 January, 7.30 to 9pm</strong>.
+We'll be working through the rest of the <i>Gloria</i>.
 </p>
 
 </section>
