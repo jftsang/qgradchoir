@@ -9,6 +9,8 @@
 &bullet;
 <a class="extln" href="https://github.com/jftsang/qgradchoir">GitHub</a>
 &bullet;
+<a class="extln" href="https://opencollective.com/qgradchoir">Open Collective</a>
+&bullet;
 <a href="/privacy.php">Privacy policy</a>
 </p>
 </nav>
